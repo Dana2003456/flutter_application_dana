@@ -1,0 +1,9 @@
+{
+    "Register": "Register",
+    "Nameint": "Select Your Name",
+    "Phoneint": "Select Your Number",
+    "Mailint": "Select Your Mail adress",
+    "Countryint": "Select Your Country",
+    "Password": "Select a new password",
+    "Passwordint": "Select your password"
+}
